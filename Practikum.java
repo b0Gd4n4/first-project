@@ -1,0 +1,2 @@
+publuc class {
+}
